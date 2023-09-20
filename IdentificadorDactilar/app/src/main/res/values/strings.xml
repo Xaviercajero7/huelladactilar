@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IdentificadorDactilar</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="correo_electronico">Correo electronico</string>
+</resources>
